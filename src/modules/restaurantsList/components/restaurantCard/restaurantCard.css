@@ -1,0 +1,21 @@
+.restaurant-card {
+    margin-bottom: 8px;
+    padding: 8px;
+    border: 1px solid #D7D7D7;
+    transition: 0.5s ease all;
+    /* margin-top: 1000px; */
+    /* opacity: 0; */
+}
+
+.restaurant-card.loading{
+    /* margin-top: 1000px;
+    opacity: 0; */
+}
+
+.restaurant-card ul {
+    background-color: palegreen;
+}
+
+.restaurant-card li:first-child{
+    background-color: rebeccapurple;
+}
